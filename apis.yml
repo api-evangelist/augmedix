@@ -1,0 +1,73 @@
+aid: augmedix
+name: Augmedix
+description: >-
+  Augmedix is a San Francisco-based health technology company providing
+  ambient AI medical documentation (AI scribe) services that capture
+  patient-clinician conversations and generate clinical notes so that
+  physicians can focus on patient care instead of EHR data entry. Founded
+  in 2012, the company went public on Nasdaq in 2021 (AUGX) and was
+  acquired by Commure in October 2024, becoming part of Commure's
+  clinician-workflow platform alongside HCA Healthcare-aligned tooling.
+  Augmedix's product line spans three service tiers — Augmedix Go
+  (self-service AI scribe), Augmedix Assist (AI drafting with human
+  editing, coding, and referral-letter support, notes ready within an
+  hour), and Augmedix Live (full-service dedicated medical documentation
+  specialist before, during, and after the visit) — plus specialty
+  variants for Emergency Medicine, oncology, and other specialties. The
+  platform integrates with major EHRs including Epic, Oracle Cerner,
+  athenahealth, Meditech, eClinicalWorks, NextGen, and iKnowMed, and is
+  HIPAA-compliant and HITRUST-certified. Augmedix's GitHub presence
+  consists of internal QA, scribe-app base, and ambient API automation
+  repositories; there is no public developer API, SDK, or OpenAPI
+  specification — integration with Augmedix is handled through enterprise
+  EHR partnerships and the Commure clinician platform rather than a
+  self-service developer surface.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Healthcare
+  - Medical Documentation
+  - AI Scribe
+  - Ambient AI
+  - Clinical Notes
+  - EHR Integration
+  - Epic
+  - Cerner
+  - Athenahealth
+  - HIPAA
+  - HITRUST
+  - Commure
+  - Health Technology
+url: https://raw.githubusercontent.com/api-evangelist/augmedix/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.augmedix.com
+  - type: Products
+    url: https://www.augmedix.com/product-overview
+  - type: About
+    url: https://www.augmedix.com/about-us
+  - type: Resources
+    url: https://www.augmedix.com/resources
+  - type: Careers
+    url: https://www.augmedix.com/careers
+  - type: Contact
+    url: https://www.augmedix.com/contact-us
+  - type: Portal
+    url: https://ee-portal.augmedix.com/
+  - type: TermsOfService
+    url: https://www.augmedix.com/general-terms-of-use
+  - type: PrivacyPolicy
+    url: https://www.augmedix.com/privacy-policy
+  - type: ParentCompany
+    url: https://www.commure.com
+  - type: GitHubOrganization
+    url: https://github.com/Augmedix
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
