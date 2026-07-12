@@ -46,6 +46,8 @@ modified: '2026-05-24'
 specificationVersion: '0.20'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/augmedix-domain-security.yml
   - type: Website
     url: https://www.augmedix.com
   - type: Products
@@ -68,6 +70,8 @@ common:
     url: https://www.commure.com
   - type: GitHubOrganization
     url: https://github.com/Augmedix
+  - type: Blog
+    url: https://www.augmedix.com/resources
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
